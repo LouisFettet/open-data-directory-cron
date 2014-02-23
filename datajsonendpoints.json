@@ -1,0 +1,560 @@
+[
+  {
+    "url":"http://hub.healthdata.gov/data.json",
+    "label":"HHS",
+    "type":"Federal",
+    "vendor":"CKAN"
+  },
+  {
+    "url":"https://health.data.ny.gov/data.json",
+    "label":"New York Department of Health",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cdc.gov/data.json",
+    "label":"Centers for Disease Control",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.medicare.gov/data.json",
+    "label":"Medicare",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"http://www.consumerfinance.gov/data.json",
+    "label":"Consumer Financial Protection Bureau",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.energystar.gov/data.json",
+    "label":"Energy Star",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://www.data.act.gov.au/data.json",
+    "label":"Austrailian Capital Territory ",
+    "type":"International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cacs.org/data.json",
+    "label":"California Common Sense",
+    "type":"NGO",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.austintexas.gov/data.json",
+    "label":"Austin, TX",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.baltimorecity.gov/data.json",
+    "label":"Baltimore, MD",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cityofboston.gov/data.json",
+    "label":"Boston, MA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.burlingtonvt.gov/data.json",
+    "label":"Burlington, VT",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cityofchicago.org/data.json",
+    "label":"Chicago, IL",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://www.dallasopendata.com/data.json",
+    "label":"Dallas, TX",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://dashboard.edmonton.ca/data.json",
+    "label":"Edmonton, Canada",
+    "type":"City - International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.eindhoven.nl/data.json",
+    "label":"Eindhoven, Netherlands",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cityofgainesville.org/data.json",
+    "label":"Gainsville, FL",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.honolulu.gov/data.json",
+    "label":"Honolulu, HI",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://kcstat.kcmo.org/data.json",
+    "label":"Kansas City, MO",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://controllerdata.lacity.org/data.json",
+    "label":"Los Angeles Controller, CA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cityofmadison.com/data.json",
+    "label":"Madison, WI",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.ci.newark.nj.us/data.json",
+    "label":"Newark, NJ",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.nola.gov/data.json",
+    "label":"New Orleans, LA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://www.opendatanyc.com/data.json",
+    "label":"New York City Comptroller, NY",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.cityofnewyork.us/data.json",
+    "label":"New York, NY",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.oaklandnet.com/data.json",
+    "label":"Oakland, CA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.raleighnc.gov/data.json",
+    "label":"Raleigh, NC",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.redmond.gov/data.json",
+    "label":"Redmond, WA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.slcgov.com/data.json",
+    "label":"Salt Lake City, UT",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.sfgov.org/data.json",
+    "label":"San Francisco, CA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.seattle.gov/data.json",
+    "label":"Seattle, WA",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.southbendin.gov/data.json",
+    "label":"South Bend, IN",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.weatherfordtx.gov/data.json",
+    "label":"Weatherford, TX",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://performance.cookcountyil.gov/data.json",
+    "label":"Cook County, IL",
+    "type":"County",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.wellingtonfl.gov/data.json",
+    "label":"Wellington, FL",
+    "type":"City",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://www.halifaxopendata.ca/data.json",
+    "label":"Halifax, Canada",
+    "type":"City - International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://performance.smcgov.org/data.json",
+    "label":"San Mateo County, CA",
+    "type":"County",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"http://data.dcpcsb.org/data.json",
+    "label":"DC Public Charter School Board",
+    "type":"Education",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://healthmeasures.aspe.hhs.gov/data.json",
+    "label":"ASPE",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://epa-data.socrata.com/data.json",
+    "label":"Environmental Protection Agencies",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://opendata.go.ke/data.json",
+    "label":"Kenya",
+    "type":"International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://explore.data.gov/data.json",
+    "label":"data.gov",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://iranhumanrights.socrata.com/data.json",
+    "label":"International Campaign for Human Rights in Iran",
+    "type":"NGO",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.kingcounty.gov/data.json",
+    "label":"King County, WA",
+    "type":"County",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://bronx.lehman.cuny.edu/data.json",
+    "label":"Lehman College, NY",
+    "type":"Education",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://www.dati.lombardia.it/data.json",
+    "label":"Lombardia, Italy",
+    "type":"International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.montgomerycountymd.gov/data.json",
+    "label":"Montgomery County, MD",
+    "type":"County",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.nfpa.org/data.json",
+    "label":"National Fire Protection Association",
+    "type":"Federal",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.ok.gov/data.json",
+    "label":"Oklahoma",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.oregon.gov/data.json",
+    "label":"Oregon",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.eae.alberta.ca/data.json",
+    "label":"Alberta, Canada",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.colorado.gov/data.json",
+    "label":"Colorado",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.hawaii.gov/data.json",
+    "label":"Hawaii",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.illinois.gov/data.json",
+    "label":"Illinois",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.maryland.gov/data.json",
+    "label":"Maryland",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.mo.gov/data.json",
+    "label":"Missouri",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.ny.gov/data.json",
+    "label":"New York",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.wa.gov/data.json",
+    "label":"Washington",
+    "type":"State",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://data.taxpayer.net/data.json",
+    "label":"Taxpayers for Common Sense",
+    "type":"NGO",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"http://data.undp.org/data.json",
+    "label":"UNDP",
+    "type":"International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"https://finances.worldbank.org/data.json",
+    "label":"World Bank Finances",
+    "type":"International",
+    "vendor":"Socrata"
+  },
+  {
+    "url":"http://www.usda.gov/data.json",
+    "label":"US Department of Agriculture",
+    "type":"Federal",
+    "vendor":"Other"
+  },
+  {
+    "url":"http://www.commerce.gov/data.json",
+    "label":"Department of Commerce",
+    "type":"Federal",
+    "vendor":"Other"
+  },
+  {
+    "url":"http://www.defense.gov/data.json",
+    "label":"Department of Defense",
+    "type":"Federal",
+    "vendor":"Other"
+  },
+  {
+    "url":"http://www2.ed.gov/data.json",
+    "label":"Department of Education",
+    "type":"Federal",
+    "vendor":"Other"
+  },
+  {
+    "url":"http://energy.gov/sites/prod/files/2013/11/f5/public-data-listing_2013-11-26.json",
+    "label":"Department of Energy",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://hub.healthdata.gov/data.json",
+    "label":"Department of Health and Human Services",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.dhs.gov/sites/default/files/publications/digital-strategy/data.json",
+    "label":"Department of Homeland Security",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://portal.hud.gov/hudportal/documents/huddoc?id=HUDPUBLICDATASET.JSON",
+    "label":"Department of Housing and Urban Development",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.justice.gov/data.json",
+    "label":"Department of Justice",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.dol.gov/data.json",
+    "label":"Department of Labor",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.state.gov/data.json",
+    "label":"Department of State",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://interior.gov/data.json",
+    "label":"Department of the Interior",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.treasury.gov/jsonfiles/data.json",
+    "label":"Department of the Treasury",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.dot.gov/sites/dot.dev/files/data/data.gov/data.json",
+    "label":"Department of Transportation",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://va.gov/data.json",
+    "label":"Department of Veterans Affairs",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://gsa.gov/data.json",
+    "label":"General Services Administration",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www2.epa.gov/sites/production/files/2013-11/dcat_public_v2.json",
+    "label":"Environmental Protection Agency",
+    "type":"Federal",
+    "vendor":"Other"
+  },
+  {
+    "url":"http://www.usaid.gov/data.json",
+    "label":"USAID",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.ssa.gov/data.json",
+    "label":"Social Security Administration",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.sec.gov/data.json",
+    "label":"Securities and Exchange Commission",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.opm.gov/data.json",
+    "label":"OPM",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.nrc.gov/data.json",
+    "label":"Nuclear Regulatory Commission",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.ntsb.gov/data.json",
+    "label":"National Transportation Safety Board",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.nsf.gov/data.json",
+    "label":"National Science Foundation",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.archives.gov/data.json",
+    "label":"National Archives",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.imls.gov/data/data.json",
+    "label":"Institute of Museum and Library Services",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.consumerfinance.gov/data.json",
+    "label":"Consumer Financial Protection Bureau",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://api.census.gov/data.json",
+    "label":"US Census Bureau",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://data.nasa.gov/data.json",
+    "label":"National Aeronautics and Space Administration",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.fhfa.gov/data.json",
+    "label":"Federal Housing Finance Administration",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://data.mcc.gov/raw/data.json",
+    "label":"Millennium Challenge Corporation",
+    "type":"Federal",
+    "vendor":""
+  },
+  {
+    "url":"http://www.va.gov/data.json",
+    "label":"Veterans Health Administration",
+    "type":"Federal",
+    "vendor":""
+  }
+]
